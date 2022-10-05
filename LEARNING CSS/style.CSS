@@ -69,7 +69,7 @@ div {
 font-size: 24px;
 	size: equal;
 	width: 70%;
-	background-color: blueviolet;
+	background-color: rgb(153, 149, 98);
 	
 }
 .topnav a:hover
@@ -114,10 +114,35 @@ height:100%;
 p 
 {
 	text-indent: 40px;
+	
 }
 body
 {
 	width: 100%;
 	
 
+}
+div.sample{
+background-color: aqua;
+width: 200px;
+height: 200px;
+margin-left: 10px;
+float: left;
+
+}
+div.a{
+	background-color: rgb(81, 44, 247);
+width: 200px;
+height: 200px;
+margin-left: 10px;
+float: left;
+padding: left;
+
+}
+div.b{
+	background-color: rgb(235, 23, 94);
+	width: 200px;
+	height: 200px;
+	margin-left: 10px;
+float: left;
 }
